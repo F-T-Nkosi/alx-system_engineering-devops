@@ -10,3 +10,4 @@
 9-firstdirdeletion script deletes the my first directory folder in tmp
 10-back script changes back to the previous working directory
 11-lists script list the files in from multiple directores in order
+12-file_type script checks and prints the file type of a file in tmp
