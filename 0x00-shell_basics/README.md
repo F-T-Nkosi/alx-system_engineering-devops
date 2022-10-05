@@ -9,3 +9,4 @@
 8-firstdelete script deletes the betty file in the my_first_directory folder
 9-firstdirdeletion script deletes the my first directory folder in tmp
 10-back script changes back to the previous working directory
+11-lists script list the files in from multiple directores in order
