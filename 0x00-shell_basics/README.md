@@ -6,3 +6,4 @@
 5-listfilesdigitonly script shows contents in long format with numerical user and group id and hidden files
 6-firstdirectory script makes a directory in the tmp older
 7-movethatfile script moves the betty file into another directory
+8-firstdelete script deletes the betty file in the my_first_directory folder
