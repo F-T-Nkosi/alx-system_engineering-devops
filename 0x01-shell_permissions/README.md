@@ -9,3 +9,4 @@
 8-James_Bond script gives all permissions to other useres only
 9-John_Doe script sets the mode of the hello file to a given list of characters
 10-mirror_permissions sets the mode of file hello to == olleh
+11-directories_permissions script adds execute permissions to all subdirectories for all 
