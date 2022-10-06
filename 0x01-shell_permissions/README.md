@@ -11,3 +11,4 @@
 10-mirror_permissions sets the mode of file hello to == olleh
 11-directories_permissions script adds execute permissions to all subdirectories for all 
 12-directory_permissions script makes a directory with the permissions mode 751
+13-change_group script changes the owner of the file hello to school
