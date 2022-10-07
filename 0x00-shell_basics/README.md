@@ -16,3 +16,4 @@
 100-lets_move script moves all files beginning with uppercase letter to /tmp/u
 101-clean_emacs script deletes all files in current directory that end with ~
 102-tree script creates a tree of direcoties welcome/to/school
+103-commas script lists all contents of the current working directory as a comma separated list with formatting 
