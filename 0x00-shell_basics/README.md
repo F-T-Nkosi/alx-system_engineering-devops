@@ -13,3 +13,4 @@
 12-file_type script checks and prints the file type of a file in tmp
 13-symbolic_link script creates a symbolic link to a destination
 14-copy_html script copies files to the parent directory excluding those that already exist
+100-lets_move script moves all files beginning with uppercase letter to /tmp/u
