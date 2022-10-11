@@ -10,3 +10,4 @@
 9-duplicate_last_line script duplicates the last line of the iacta file
 10-no_more_js script deletes all .js files in the current directory and sub directories
 11-directories script counts the number of directories and sub-directories in current d
+12-newest_files script displays the 10 newest files in the current directory
