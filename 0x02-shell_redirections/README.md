@@ -14,3 +14,5 @@
 13-unique script takes a list of words and prints only the words sorted and axactly once 
 14-findthatword shows the lines that contain the pattern "root"in the file /etc/passwd
 15-countthatword shows how many lins contain the pattern "bin" /etc/passwd
+16-whatsnext show the lines that contain the pattern and 3 additional lines of context 
+
