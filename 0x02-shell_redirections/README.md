@@ -16,3 +16,4 @@
 15-countthatword shows how many lins contain the pattern "bin" /etc/passwd
 16-whatsnext shows an additional 3 lines of context after pattern line
 17-hidethisword shows alines but the ones containing the pattern "bin"
+18-letteronly disply lines beginnig with letters only
