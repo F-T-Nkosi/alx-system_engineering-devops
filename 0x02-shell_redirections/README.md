@@ -19,3 +19,4 @@
 18-letteronly disply lines beginnig with letters only
 19-AZ replaces A with c and Z with e
 20-hiago deletes c and C from the input
+21-reverse reverses its input
